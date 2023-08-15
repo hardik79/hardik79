@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/hardik79/hardik79/main/Github%20banner.png" >
+
 ## Hey 👋, This is Hardik Borad.
 [![Gmail Badge](https://img.shields.io/badge/-hardik.borad.7979@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hardik.borad.7979@gmail.com)](mailto:hardik.borad.7979@gmail.com) 
  [![Linkedin Badge](https://img.shields.io/badge/-hardikborad-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hardik-borad-a899ab156/)](https://www.linkedin.com/in/hardik-borad-a899ab156/)  [![Github Badge](https://img.shields.io/badge/-hardikborad-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hardik79)](https://github.com/hardik79)  
