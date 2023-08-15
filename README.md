@@ -4,7 +4,8 @@
 <p align='left'>
  I'm a Full Stack Web Developer
 
- ![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" height="250" width="400">
+
 
   - 🔭 I’m currently working on <b> ReactJS, NodeJS, AngularJS, PHP, Laravel, Codeigniter , MongoDB, CSS, HTML, Bootstrap, SCSS, Firebase. </b>
   - 👯 I’m looking to collaborate on web development.
