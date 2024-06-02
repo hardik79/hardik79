@@ -12,7 +12,19 @@
   - 🔭 I’m currently working on <b> ReactJS, NodeJS, AngularJS, PHP, Laravel, Codeigniter , MongoDB, CSS, HTML, Bootstrap, SCSS, Firebase. </b>
   - 👯 I’m looking to collaborate on web development.
   - 📫 How to reach me: <a href='https://www.linkedin.com/in/hardik-borad-a899ab156/'>LinkedIn</a> or <a href="mailto:hardik.borad.7979@gmail.com">Gmail</a>
-
+  
+## Profile Views
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/hardik79"> <img src="https://komarev.com/ghpvc/?username=hardik79&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
   <h3 align="left">Connect with me:</h3>
 
  <h3 align="left">Languages and Tools:</h3>
