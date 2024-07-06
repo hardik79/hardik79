@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/hardik79/hardik79/main/Github%20banner.png" >
 
 ## Hey 👋, This is Hardik Borad.
 [![Gmail Badge](https://img.shields.io/badge/-hardik.borad.7979@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hardik.borad.7979@gmail.com)](mailto:hardik.borad.7979@gmail.com) 
